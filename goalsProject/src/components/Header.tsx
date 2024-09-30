@@ -1,4 +1,4 @@
-import React, { FC, PropsWithChildren } from 'react'
+import { FC, PropsWithChildren } from 'react'
 
 type HeaderProps = PropsWithChildren<{image: {src: string, alt: string}}>
 
